@@ -15,5 +15,6 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 ## Projects ##
 
+![image](https://github.com/user-attachments/assets/673238bb-15cc-4964-ab5c-87095206d39b)
 [Introduction to Data Science](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
 
