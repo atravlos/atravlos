@@ -13,3 +13,7 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 - **Languages:** Python (Pandas, Numpy, MatPlotLib), R (TidyR, Ggplot2)
 - **Tools:** MS Excel, Data Analysis, Logistic Regression, Data Visualization
 
+## Projects ##
+
+[Introduction to Data Science](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
+
