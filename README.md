@@ -8,3 +8,8 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 **LinkedIn:** www.linkedin.com/in/anthony-travlos-411a53229
 
+## Languages and Tools ##
+
+- **Languages:** Python (Pandas, Numpy, MatPlotLib), R (TidyR, Ggplot2)
+- **Tools:** MS Excel, Data Analysis, Logistic Regression, Data Visualization
+
