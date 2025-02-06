@@ -2,8 +2,6 @@
 
 ## About Me ##
 
-<img src="https://github.com/user-attachments/assets/34c10170-bb2c-41fa-887d-5bf919b22c30" height= "300" width="250"/>
-
 I am a fourth year undergraduate student at the University of Notre Dame majoring in Biological Sciences and minoring in Data Science and Theology. I will be attending medical school starting next fall and my work seeks to bridge the gap between data science and medicine. In my free time, I love exploring sports data particularly in the NFL and college football realms.
 
 **Email:** travlosaj@gmail.com
@@ -12,7 +10,7 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 ## Projects ##
 
-[Introduction to Data Science Portfolio](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
+<img src="https://github.com/user-attachments/assets/058cf46f-0013-49b9-bc48-c64cac09e070" height="200" width="300"> [Introduction to Data Science Portfolio](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
 
 ## Languages and Tools ##
 
