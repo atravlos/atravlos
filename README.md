@@ -10,6 +10,8 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 ## Projects ##
 
+Check out my work throughout the semester:
+
 <img src="https://github.com/user-attachments/assets/058cf46f-0013-49b9-bc48-c64cac09e070" height="200" width="300"> [Introduction to Data Science Portfolio](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
 
 ## Languages and Tools ##
