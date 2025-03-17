@@ -10,9 +10,28 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 ## Projects ##
 
-Check out my work throughout the semester:
+Check out my work throughout the semester in the Data-Science-Portfolio Repository or at the following links:
 
-<img src="https://github.com/user-attachments/assets/058cf46f-0013-49b9-bc48-c64cac09e070" height="200" width="300"> [Introduction to Data Science Portfolio](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
+[**Basic Streamlit App**](https://github.com/atravlos/Travlos-Data-Science-Portfolio/tree/main/basic-streamlit-app#welcome-to-my-basic-streamlit-app)
+
+This project uses streamlit to build a dashboard that allows users to filter and observe data from the "Palmer Penguins" dataset.
+
+>**Skills and Libraries**
+>>-Streamlit
+>>-Pandas
+
+[**Exploring Tidy Data Principles through 2008 Summer Olympic Medalists**](https://github.com/atravlos/Travlos-Data-Science-Portfolio/tree/main/TidyData-Project#exploring-the-2008-summer-olympics-medalists)
+
+This project incorporates data wrangling and cleaning to transform a dataset to conform with Tidy Data Principles (Each variable is in its own column, each observation forms its own row, and each type of observational unit forms its own table). Additionally, this project performs exploratory data analysis through the evaluation of medal counts by gender and by event. Whereas the Basic Streamlit App allows a user to filter and observe data, this project guides a user through data wrangling and data visualization to answer a question and tell a story.
+
+>**Skills and Libraries**
+>>- Pandas
+>>- Matplotplib.pyplot
+>>- Data Wrangling
+>>- Tidy Data Principles
+>>- Method Chaining
+>>- Data Visualization
+
 
 ## Languages and Tools ##
 
