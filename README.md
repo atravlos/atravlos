@@ -11,7 +11,7 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 ## Languages and Tools ##
 
 - **Languages:** Python (Pandas, Numpy, MatPlotLib), R (TidyR, Ggplot2)
-- **Tools:** MS Excel, Data Analysis, Logistic Regression, Data Visualization
+- **Tools:** Exploratory Data Analysis, Data Visualization, Streamlit, Supervised MAchine Learning
 
 ## Goals ##
 
