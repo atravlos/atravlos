@@ -1,4 +1,4 @@
-## Data Science Portfolio - Anthony Travlos
+# Data Science Portfolio - Anthony Travlos
 
 ## About Me ##
 
