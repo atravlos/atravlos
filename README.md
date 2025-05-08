@@ -8,10 +8,15 @@ I am a fourth year undergraduate student at the University of Notre Dame (class 
 
 **LinkedIn:** www.linkedin.com/in/anthony-travlos-411a53229
 
+## Check Out My Repositories!
+- [Introduction to Data Science Portfolio](https://github.com/atravlos/Travlos-Data-Science-Portfolio)
+- [Sports and Big Data Portfolio](https://github.com/atravlos/SportsData)
+
+
 ## Languages and Tools ##
 
 - **Languages:** Python (Pandas, Numpy, MatPlotLib), R (TidyR, Ggplot2)
-- **Tools:** Exploratory Data Analysis, Data Visualization, Streamlit, Supervised MAchine Learning
+- **Tools:** Exploratory Data Analysis, Data Visualization, Streamlit, Supervised Machine Learning
 
 ## Goals ##
 
