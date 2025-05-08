@@ -2,7 +2,7 @@
 
 ## About Me ##
 
-I am a fourth year undergraduate student at the University of Notre Dame majoring in Biological Sciences and minoring in Data Science and Theology. I will be attending medical school starting next fall and my work seeks to bridge the gap between data science and medicine. In my free time, I love exploring sports data particularly in the NFL and college football realms.
+I am a fourth year undergraduate student at the University of Notre Dame (class of 2025) majoring in Biological Sciences and minoring in Data Science and Theology. I will be attending medical school at Loyola University Chicago Stritch School of Medicine starting in the fall of 2025 and my work will seek to bridge the gap between data science, theology, and medicine. In my free time, I love exploring sports data particularly in the NFL and college football realms.
 
 **Email:** travlosaj@gmail.com
 
@@ -19,4 +19,4 @@ I am a fourth year undergraduate student at the University of Notre Dame majorin
 
 1. Expand python skills beyond pandas.
 2. Learn to make informative, user-friendly dashboards.
-3. Apply data science skills to a medicine/healthcare based project.
+3. Apply data science skills to answer an applicable question.
